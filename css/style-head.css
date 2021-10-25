@@ -35,17 +35,3 @@ header{
     font-size: 36px;
     color: #a27e73;
 }
-
-/*トップ画面サイズ調整*/
-.top_img{
-    width: 80%;
-    height: auto;
-    /*text-align: center;*/
-}
-
-.top_box{
-    max-width: 70%;
-    margin-top: 10px;
-    margin-right: auto;
-    margin-left: auto;
-}
