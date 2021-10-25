@@ -5,10 +5,20 @@
     height: auto;
     /*text-align: center;*/
 }
-
 .top_box{
     max-width: 70%;
     margin-top: 10px;
     margin-right: auto;
     margin-left: auto;
+}
+
+
+/*検索ボックスデザイン*/
+.search{
+    width: 20%;
+    height: 30px;
+}
+/*検索ボックス位置*/
+.search_box{
+    padding: 5px;
 }
