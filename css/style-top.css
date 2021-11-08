@@ -20,5 +20,14 @@
 }
 /*検索ボックス位置*/
 .search_box{
-    padding: 5px;
+    padding: 3px;
+    width: 800px;
+}
+.form_btn{
+    background: rgba(0,0,0,0);
+}
+
+.material-icons.large-size{
+    font-size: 28px;
+    color: #a27e73;
 }
